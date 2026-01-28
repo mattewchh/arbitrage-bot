@@ -18,7 +18,7 @@ A Python bot that scrapes odds from **Sportsbet** and **Ladbrokes** and identifi
 ## Installation
 ```bash
 git clone https://github.com/your-username/arbitrage-bot.git
-cd arb-bot
+cd arbitrage-bot
 pip install -r requirements.txt
 
 ```
