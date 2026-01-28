@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 ```
 ## Usage
-Choose the sport you want to scrape by replacing the url(s) in scraper/ladbrokes.py and scraper/sportsbet.py
-To run the bot:
+- Choose the sport you want to scrape by replacing the url(s) in scraper/ladbrokes.py and scraper/sportsbet.py
+- To run the bot:
 
 ```bash
 python main.py
