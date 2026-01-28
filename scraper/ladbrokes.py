@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def scrape_ladbrokes():
     driver = get_driver()
-    URL = "https://www.ladbrokes.com.au/sports/darts"
+    URL = "https://www.ladbrokes.com.au/sports/darts" #choose sport to scrape
     driver.get(URL)
 
     wait_for_element(driver, ".price-button-odds-price") #adjust selector later
